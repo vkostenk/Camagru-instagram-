@@ -1,5 +1,5 @@
 # Camagru-instagram-
-school project(Web)
+school project(Web) Main goal of this project was to combine all knowledge from PHP piscine(PHP,JS,MySQL,HTML and CSS) and create something similar to Instagram
 
 Main page
 
