@@ -31,5 +31,7 @@ school project(Web)
 ![](presentation/Vlad36.png)
 
 ![](presentation/Vlad38.png)
+
 ![](presentation/Vlad44.png)
+
 ![](presentation/Vlad121.png)
