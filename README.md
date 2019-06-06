@@ -1,4 +1,4 @@
 # Camagru-instagram-
 school project(Web)
 
-![](pyr.gif)
+![](presentation\1.jpg)
